@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # examen_NormaBeatrizArizmendiSalgado
 Prueba técnica
+Para utilizar este proyecto es necesario ejecutar el comando "php artisan serve" en la consola, situandonos en la ubicacion del proyecto. 
+Así mismo es necesario ejecutar mediante Mysql el archivo "laravel.sql" para poder conectar automaticamente la base de datos con el sistema, de igual forma se pueden refrescar las migraciones de datos con el comando "php artisan migrate:fresh" 
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
